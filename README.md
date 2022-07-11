@@ -14,23 +14,15 @@ No entanto a capacidade real de abrangência da equipe de vendas são 20 mil ate
 ## Desafio:
 
 ## Causas:
-A quantidade elevada de imóveis contidas no portifólio, atrapalha muito na obtenção de padrões e se torna contra intuitiva podendo levar a decisões precipitadas e/ou perda de bons negócios.
 
 ## Proposta de Solução:
-Por meio de análises estatísticas serão elencados possíveis bons negócios com base nos atributos disponibilizados no portfólio fornecido pelo CEO. Elencando casas que foram anunciadas com preço abaixo de 30% do valor médio por região, estejam em ótimo estado de conservação além de analisar o período do ano em que cada região apresenta maior média de preços para definição do momento ideal para revenda do imóvel. Para calcular o valor sugerido de venda, colocaremos uma margem de mais 7% sobre o valor mediano dos imóveis da região.
 
-Link da solução: https://
 
 ## Ferramentas utilizadas:
 
-- Python com foco em análise de dados bem como bibliotecas(Pandas, Numpy, matplotlib, plotly e Seaborn);
-- VS Code e Jupyter Notebook;
-- Mapas interativos com Folium;
-- Streamlit;
-- Heroku Cloud.
 
 ## Referências:
 
 - A mecânica de negócio utilizada no projeto apresentado foi desenvolvida na [Comunidade DS](https://www.comunidadedatascience.com/)
-- Os dados utilizados nesse projeto estão disponíveis no [Kaggle](https://www.kaggle.com/datasets/shivachandel/kc-house-data)
+- Os dados utilizados nesse projeto estão disponíveis no [Kaggle](https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction)
 
