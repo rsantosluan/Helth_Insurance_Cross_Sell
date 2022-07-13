@@ -24,10 +24,6 @@ Como artefato de entrega, será encaminhado ao SEO uma tabela contendo essa list
 O CEO terá acesso ao [Dashboard Interativo]() com todas as informações facilitando assim o acesso, independente do local e dispositivo que tenha a disposição. 
 Além de receber por e-mail a planilha contendo os clientes em potencial ranqueados para que possa encaminhar ao setor de vendas para o início da campanha.
 
-
-### Escopo 
-Todo o processo de EDA (Análise exploratória dos dados ) bem como escolha e criação das máquinas preditivas, estão disponíceis [Neste Link](https://github.com/rsantosluan/Helth_Insurance_Cross_Sell/blob/master/Notebooks/data_exploration.ipynb)
-
 ## Ferramentas utilizadas:
 - Python com foco em análise de dados;
 - Git, Github;
@@ -35,6 +31,9 @@ Todo o processo de EDA (Análise exploratória dos dados ) bem como escolha e cr
 - Streamlit
 - Pacotes de Machine Learning: sklearn e xgboost;
 - Técnicas de seleção de atributos (Random Forest, Extra Trees e Boruta);
+### Escopo 
+Todo o processo de EDA (Análise exploratória dos dados ) bem como escolha e criação das máquinas preditivas, estão disponíceis [Neste Link](https://github.com/rsantosluan/Helth_Insurance_Cross_Sell/blob/master/Notebooks/data_exploration.ipynb)
+
 
 ## Referências:
 
